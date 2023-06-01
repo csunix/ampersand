@@ -1,2 +1,2 @@
-# bar
-Bar is a custom and easy, high performing command line for Roblox debug and administration.
+# Ampersand
+A modern and flexible command network framework for developer debugging and easy administrative consoles.
